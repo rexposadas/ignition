@@ -15,5 +15,11 @@ Display select device information.
 
 The second example demo shows how to take a mock device and display specific values in the editor. 
 
+Below is a sample device.
+
 ![Device](images/device.png)
+
+Below is the editor with selected values from the sample device.
+
+
 ![Device Info](images/device_info.png)
