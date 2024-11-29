@@ -4,9 +4,9 @@ These are example tasks using the Ignition software
 
 Examples: 
 
-1. Button onclick event and popup.
-2. Accessing and display device info in the designer
-3. Accessing the database
+1. Accessing the database and components
+2. Button onclick event and popup.
+3. Accessing and display device info in the designer
 
 
 # Random notes
@@ -15,29 +15,7 @@ Examples:
 - Location of DB file : "./data"
 - Default gateway: `http://localhost:8088`
 
-# Example 1 (button event)
-
-A button with an onClick event that triggers a python script and displays a message in a popup. 
-
-![onclick even](images/hello_button_action.png)
-
-# Example 2 (Display device info)
-
-Display select device information. 
-
-The second example demo shows how to take a mock device and display specific values in the editor. 
-
-Below is a sample device.
-
-![Device](images/device.png)
-
-Below is the editor with selected values from the sample device.
-
-
-![Device Info](images/device_info.png)
-
-
-# Example 3 (Accessing database and components)
+# Example 1 (Accessing database and components)
 
 The trial version comes with a SQLite db. You can find the location of the DB file by going to where you have Ignition installed and running: 
 
@@ -102,3 +80,26 @@ Name: LED Display, Type: <type 'com.inductiveautomation.factorypmi.application.c
 Name: Button, Type: <type 'com.inductiveautomation.factorypmi.application.components.PMIButton'>
 
 ```
+
+# Example 2 (button event)
+
+A button with an onClick event that triggers a python script and displays a message in a popup. 
+
+![onclick even](images/hello_button_action.png)
+
+# Example 3 (Display device info)
+
+Display select device information. 
+
+The second example demo shows how to take a mock device and display specific values in the editor. 
+
+Below is a sample device.
+
+![Device](images/device.png)
+
+Below is the editor with selected values from the sample device.
+
+
+![Device Info](images/device_info.png)
+
+
