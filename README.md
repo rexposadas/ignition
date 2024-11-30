@@ -1,6 +1,8 @@
 # What is this? 
 
-These are example tasks using the Ignition software
+These are example using the Ignition software. 
+
+`scripts.py` contains all the python scripts used in the examples.
 
 Examples: 
 
