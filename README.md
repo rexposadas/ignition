@@ -11,7 +11,7 @@ Examples:
 3. Accessing and display device info in the designer
 
 
-# Random notes
+# Getting Started
 
 - To restart ignition via CLI: `./ignition.sh`
 - Location of DB file : "./data"
